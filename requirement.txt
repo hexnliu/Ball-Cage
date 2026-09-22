@@ -1,0 +1,3 @@
+adsk.core
+adsk.fusion
+
